@@ -1,1 +1,1 @@
-# Jarvis
+AI Voice assistant which can do various things with the help of single voice commands. Like, sending emails, playing music , Wikipedia searches, and also being capable of opening different directories on the system. Made by using Python language and different libraries like pyttsxs, speach_recognition, wikipedia,etc.
